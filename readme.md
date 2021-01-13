@@ -4,4 +4,4 @@ Application developed using [this tutorial](https://developers.sap.com/mission.s
 
 
 ## Credits
-This project has been generated with 💙 and [easy-ui5](https://github.com/SAP)
+This project has been generated with 💙 and [easy-ui5](https://github.com/SAP). All rights reserved to [SAP](https://github.com/SAP).
