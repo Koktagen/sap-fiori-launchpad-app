@@ -1,5 +1,6 @@
-# products
-Insert the purpose of this project and some intersting infos here
+# SAP Fiori Launchpad App
+
+Application developed using [this tutorial](https://developers.sap.com/mission.sapui5-cf-launchpad.html)
 
 
 ## Credits
